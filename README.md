@@ -5,7 +5,10 @@ Learning journey with Flutter framework and Dart programming language - mostly f
 
 Originally investigated in 2018, revisited in 2023.
 
-![A3_And_more_activities.gif](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGpEl0icPeSMw0NzQ83Y8oNwUNcWMFd2IEX44OTkEMLOECbHZuYEWABQln922ptzopSmPP2ecuejtFP_ycI2uHb4PnTJ3Bk00j-IqDnxt0DR75aMQXsCQwiy_xs5W7pb8-_aFYyI_Dd0U/s1200/A3_And_more_activities.gif)
+![A3_And_more_activities_s640.gif](https://github.com/ducquoc/55-day-flutter-dart-be/raw/main/A3_And_more_activities_s640.gif)
+
+(original BlogSpot img gif with custom size s550)
+[A3_And_more_activities.gif s550](https://duc-quoc-vn.blogspot.com/p/a3-and.html)
 
 ### Usage
 
